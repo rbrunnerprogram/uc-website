@@ -1,6 +1,6 @@
 fixScale = function(doc) {
 
-	var addEvent = 'addEventListener',
+	var addEvent = 'addEventListener2',
 	    type = 'gesturestart',
 	    qsa = 'querySelectorAll',
 	    scales = [1, 1],
