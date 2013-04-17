@@ -3002,7 +3002,11 @@ a.SubHead h4 {
 
 }
 
-div.DnnModule.DnnModule-DynamicForms.DnnModule-11460{
+div.DnnModule.DnnModule-DynamicForms.DnnModule-11460 h2{
+    display:none;
+}
+
+table#dnn_ctr11460_DynamicForms_tblEmail > tbody >tr:first-child{
     display:none;
 }
 
