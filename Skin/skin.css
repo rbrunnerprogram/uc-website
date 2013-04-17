@@ -692,20 +692,27 @@ a.navigation:hover {
 	color: #f8f3d2;
 	text-align: center;
 	padding: 12px 0;
-	margin: 0 auto;}
+	margin: 0 auto;
+	overflow: hidden;
+}
 
 #quicklinks ul li.first{
 	padding: 0;}
 
 #quicklinks span{
+	margin-top: 1px;
 	font-weight: bold;
 	text-transform: uppercase;
 	display: inline;
-	float: left;}
+	float: left;
+	font-size: 11px;
+}
 	
 #quicklinks .quicklinks{
 	display: inline;
-	float: left;}
+	float: left;
+	margin-top: -1px;
+}
 	
 #quicklinks div.quicklinks ul li{
 	display: inline;
@@ -713,7 +720,8 @@ a.navigation:hover {
 	
 #quicklinks ul li a:link, #quicklinks ul li a:visited, #quicklinks ul li a:active{
 	color: #f8f3d2;
-	text-decoration: none;}
+	text-decoration: none;
+}
 	
 #quicklinks ul li a:hover{
 	text-decoration: underline;}
