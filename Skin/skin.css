@@ -1387,11 +1387,11 @@ span.backbtn:hover {
 	
 .footer-links, .footer-links li{
 	display: inline;}
-	
+
 .footer-links{
-	padding: 0 10px;
+	padding: 0 5px;
 	border-left: 1px solid #2a2a2a;
-	font-size: 7pt;}
+	font-size: 8pt;}
 	
 .footer-links li{
 	color: #858372;
@@ -1405,12 +1405,17 @@ span.backbtn:hover {
 	padding: 0 0 0 40px;
 	font-size: 11pt;}
 	
+.footer-info p{
+    color: #858372;
+}
+	
 .footer-info a{
 	font: 10pt "Trebuchet MS", Arial, Helvetica, sans-serif;}
 	
 .footer-info div{
 	margin: 0 0 15px 0;
-	font-size: 8pt;}
+	font-size: 8pt;
+}
 	
 .footer-info #dnn_ContentPane{
 	margin: 0;}
