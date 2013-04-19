@@ -654,6 +654,15 @@ input.dnnPrimaryAction {
 	min-width: 0px !important;
 	box-shadow: none !important;
 }
+
+a.dnnPrimaryAction{
+    background-color: rgb(234,234,234) !important;
+    text-shadow: none !important;
+    border-color: black !important;
+    margin-left: 0px !important;
+    margin-bottom: 0px !important;
+}
+
 .dnnSearchTextBox {
 	color: #ba826f !important;
 	height: 23px !important;
