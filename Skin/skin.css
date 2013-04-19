@@ -652,6 +652,7 @@ input.dnnPrimaryAction {
 	float: left !important;
 	clear: right !important;
 	min-width: 0px !important;
+	box-shadow: none !important;
 }
 .dnnSearchTextBox {
 	color: #ba826f !important;
