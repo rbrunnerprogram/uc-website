@@ -169,7 +169,8 @@ body{
 	background: /*#f8f8f8*/#121212;}
 	
 a:link, a:visited, a:active{
-	color: #7d110c;}
+	color: #7d110c;
+	text-decoration: none;}
 	
 a:hover{
 	color: #990000;}
