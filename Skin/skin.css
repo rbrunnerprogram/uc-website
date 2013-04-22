@@ -173,7 +173,8 @@ a:link, a:visited, a:active{
 	text-decoration: none;}
 	
 a:hover{
-	color: #990000;}
+	color: #990000;
+	text-decoration: underline;}
 	
 .container{
 	width: 960px;
